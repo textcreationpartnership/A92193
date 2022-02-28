@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender exhortation to Friends at Bristol, to bring to remembrance how it was with them in the beginning.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92193</idno>
+            <idno type="STC">Wing R3</idno>
+            <idno type="STC">ESTC R182323</idno>
+            <idno type="EEBO-CITATION">45789387</idno>
+            <idno type="OCLC">ocm 45789387</idno>
+            <idno type="VID">172698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172698)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender exhortation to Friends at Bristol, to bring to remembrance how it was with them in the beginning.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A.R. [i.e. Ambrose Rigge].</note>
+                  <note>Includes postscript verse by George Fox the younger.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172698:1" rendition="simple:additions"/>
+            <p>A Tender EXHORTATION TO FRIENDS AT <hi>Briſtol,</hi> To bring to Remembrance How it was with them in the Be<g ref="char:EOLhyphen"/>ginning.</p>
+            <p>This Paper is not only to go to <hi>Briſtol,</hi> but <hi>London,</hi> or elſewhere, where it may come, becauſe it is a trying Day, and none of the leaſt that we have had; but I hope it will drive the honeſt-hearted to lay hold of the Standard of Truth and Righteouſneſs, and let that be their chief ſupport, and then they need not fear their Enemy without nor within; for the Lord never fails any that put their truſt in him only; for their is no confidence in Man; and therefore the Lord is to be exalted above every Name, to which every Cedar or Oak muſt bow.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb facs="tcp:172698:2"/>
+            <pb n="3" facs="tcp:172698:2"/>
+            <head>A Tender Exhortation to Friends at <hi>Briſtol,</hi> &amp;c.</head>
+            <opener>
+               <salute>Friends, or to whom theſe may come;</salute>
+            </opener>
+            <p>I Being young, did live near the City of <hi>Briſtol,</hi> and about the time of the Maſſacree in <hi>Ireland,</hi> it hapned that there was a poor People that came from thence to that City that fled for their Lives, both Men, Women and Children: And after things were a little ſettled, there was a ſort of zea<g ref="char:EOLhyphen"/>lous People in that City, that went by the Name of <hi>Puritans,</hi> which were afraid to ſpeak their own Words, or to wear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own Cloaths<g ref="char:punc">▪</g> for fear they ſhould offend the Lord; and were kept in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oly Fear, according to their ſight and knowledge in that day: But afterwards <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſecution roſe in the Nation by the Biſhops, which they bore very well in that day; and if they met in the Field, there have ſome come with
+<pb n="4" facs="tcp:172698:3"/>Staves and Clubs to beat them; but in length of time, the Times turned, and the Biſhops were turned out themſelves, both there and other places; then when People came to have Liberty and Freedom, there was a diviſion amongſt the Profeſſors that were not of their mind. Then there was another Turn, and the City of <hi>Briſtol</hi> was taken by <hi>Prince Robart;</hi> and theſe People went thorough it, through great difficulties by an Enemies Army, and then to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> they came, and were received with great gladneſs of Heart in this City, and with unexpreſſible Love amongſt the honeſt People in this City, the Lord made way for them in the hearts of his People.</p>
+            <p>O! <hi>Friends,</hi> let this never be for<g ref="char:EOLhyphen"/>gotten, the tender dealings of the Lord in a time of trouble, whom they found to be a God near at hand, and not afar off in that day. Then it hapned ſo, that there was another Turn, and they were ſent home by the Parliament; and great care was taken for them, and their Enemies were forc'd to flee be<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:172698:3"/>them. Now when things began to be ſettled in <hi>London,</hi> and in the City of <hi>Briſtol,</hi> they were ſettled again in their Habitations, than they began alſo to look into the Prophecy of latter days, and what ſhould be en<g ref="char:EOLhyphen"/>joyed in the latter Times; and the Cry was, that they might come to ſuck at the ſweet Breaſt of Conſolation, and for that cauſe many Prayers were put up, and Days ſet apart to Pray for the pouring down of the Spirit; and there were many Seekers in that day, ſeeking the Way to <hi>Sion,</hi> with their Faces thi<g ref="char:EOLhyphen"/>therward: Oh that theſe travailing days may never be forgot, what way the Lord took to gather a People to himſelf, tho' through many hardſhips and difficulties, yet he crowned all with his Heavenly Preſence, in ſtanding by them in the worſt of Times, endleſs Glory to his Name for ever. And af<g ref="char:EOLhyphen"/>ter great crying for the Spirit to be poured down, the Lord heard their Cry, and news came to the City of <hi>London,</hi> that there was a poor People in the North, that could give their
+<pb n="6" facs="tcp:172698:4"/>Backs to the ſmiter, and their Cheeks to them that pulled off their Hair; and that the Everlaſting Goſpel was Preach<g ref="char:EOLhyphen"/>ed amongſt this poor People: And then they came to <hi>London,</hi> and were ſcat<g ref="char:EOLhyphen"/>tered amongſt the Nation with much Reproach and Contempt, yet they were made to bear all things, and ſome of theſe that did Pray for the pouring down of the Spirit, and it came in ſo low an appearance, that they could not readi<g ref="char:EOLhyphen"/>ly receive it, becauſe it did not come in the Wiſdom of Words, yet to many thouſands it was received in much ſin<g ref="char:EOLhyphen"/>cerity and uprightneſs of Heart, and a joyful ſound it was to them that truly waited for it, and eſpecially this City of <hi>Briſtol,</hi> I know no People received it more readily than they did; and it was a joyful ſound to them; and ma<g ref="char:EOLhyphen"/>ny of them that were in that day, are gone to Reſt with the Lord for ever.</p>
+            <p>And after they had received the Truth in the love of it, there was a Spi<g ref="char:EOLhyphen"/>rit of Diviſion riſe amongſt ſome Friends, which put a ſtop to the Proſperity of Truth for a time; but at laſt there hap<g ref="char:EOLhyphen"/>ned
+<pb n="7" facs="tcp:172698:4"/>another Perſecution, yet notwith<g ref="char:EOLhyphen"/>ſtanding all the Difference, they ſtood the Day, and the Lord was with them, and they ſuffered joyfully the ſpoiling of their Goods, and Impriſonment, and ſome loſt their dear Lives.</p>
+            <p>Now <hi>Friends,</hi> after the heat of the Perſecution was over, there was a reſt, and the Enemy took ſome advantage af<g ref="char:EOLhyphen"/>ter that, but I hope that was made up again. But now, Friends, the thing that lies chiefly upon me is, how we have anſwered the Lord's Call out of many Evils, and that in no wiſe we may go back to <hi>Egypt</hi> again, as I am afraid too many are, gone into that which the Lord by his right Hand brought, out of them, that which was diſpleaſing unto him.</p>
+            <p>And now I do deſire, as for my own Soul, you may look back through all thoſe things, and ſee the Lord's deal<g ref="char:EOLhyphen"/>ings all along, from one time to another, and do not deſpiſe the day of ſmall things; though the Lord has given Riches, and made up your Loſſes both in <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+               <pb n="8" facs="tcp:172698:5"/>and <hi>Briſtol,</hi> (eſpecially <hi>Briſtol</hi>) I mean what you have loſt by ſuffer<g ref="char:EOLhyphen"/>ing for Truth; and as he hath made it up to you many ways, the deſire of my Soul is, that none of us that have partaken of the Loving-kindneſs of the Lord, that we may do nothing that may cauſe him to with-draw his Holy Spirit from us; for if it ſhould be ſo, we ſhould be as miſerable as any People whatſoever, for what can we do without the Lord? we cannot ſtand of ourſelves, becauſe all our freſh ſprings are in him, and there<g ref="char:EOLhyphen"/>fore we are to watch and pray conti<g ref="char:EOLhyphen"/>nually, that we may not be carried away by the great Enemy of our Souls, or turned out of the way, for he will be ready to betray the ſimple-hearted, therefore I do deſire that in the ſimpli<g ref="char:EOLhyphen"/>city of our Hearts, we may look about us, and ſee how many ways the enemy hath taken to betray the Simplicity of the Truth, ſince the breaking forth of it.</p>
+            <p>And now <hi>Friends,</hi> I have a Word or two to the Young Generation, let them be where they will, in City or Country, that have not known much of this
+<pb n="9" facs="tcp:172698:5"/>travail to conſider with themſelves whether they ought not to be con<g ref="char:EOLhyphen"/>cerned in this Work, as well as the An<g ref="char:EOLhyphen"/>cient that have gone before them; for the Way is the ſame for the Young as well as the Old, and therefore they ought to conſider their ſtanding: And the Lord is the ſame to day, as yeſter<g ref="char:EOLhyphen"/>ſtay and for ever, and he will not acquit the Guilty, neither Rich nor Poor, therefore I pray Friends, conſider and be you watchful with that little know<g ref="char:EOLhyphen"/>ledge which the Lord hath given you, over your Words and Actions, whether it be Pride, or any other Evil which op<g ref="char:EOLhyphen"/>preſſes the Seed, that you may witneſs Peace, as many that have gone before you had done.</p>
+            <p>And now <hi>Friends,</hi> I have a Word to ſome that miniſter among us, for they that have their Commiſſion rightly from the Lord, their need not much be ſaid; but ſome there are that minſter in the wiſe part by what they learned from others, and from the Scriptures, and they reach to the wiſe part in others: But the right Miniſtry diſſolve all to
+<pb n="10" facs="tcp:172698:6"/>nothing, and makes ſelf of no Reputa<g ref="char:EOLhyphen"/>tion, and cuts down that that ſtands in the way. And further, I deſire that there may not be too much healing of the Wound, until it be throughly ſearch<g ref="char:EOLhyphen"/>ed, that they may not go away to much at eaſe, and forget themſelves, and a liberty get in, and then they are more careleſs than ever they were before. And ſo I deſire you that are rightly called, may watch over the Flock, and over your own Hearts too; for I do not queſtion but you may have occaſion as well as others to watch continually; for what the Enemy cannot do one way, he will endeavour another.</p>
+            <p>And now <hi>Friends,</hi> I have a Word to thoſe that have been long hearers of the Truth, as we have been long Hear<g ref="char:EOLhyphen"/>ers, but now the Lord is riſen, and calls upon us to be doers of his Will in whatſoever he calls us to, and as others have been Preachers to us, we may now be Preachers our ſelves in Righteouſ<g ref="char:EOLhyphen"/>neſs, and in Truth; for if we hear all our Days, and do not come to that of God in our ſelves, to be Preachers to
+<pb n="11" facs="tcp:172698:6"/>others in our Converſations, it is no encouragement for others to follow our Example. I pray <hi>Friends,</hi> be not of<g ref="char:EOLhyphen"/>fended at my plain Dealing, for I al<g ref="char:EOLhyphen"/>ways found it beſt, if I had any thing againſt a Friend, to tell him of it to his Face, and not joyn with an Enemy a<g ref="char:EOLhyphen"/>gainſt him behind his Back; and I ever had Peace in ſo doing, and I hope ſhall to the end.</p>
+            <p>
+               <hi>Friends,</hi> I have ſome concern upon my Mind, concerning ſome of thoſe that run into ſuch things that I am ſure the Truth will not juſtifie in deſiring to be Rich by that way that God's Con<g ref="char:EOLhyphen"/>troverſie is againſt. I pray conſider, is it not better to be contented with the Bleſſing of the Lord in a middle way, than to run into that that cauſes an evil Report upon the good Land.</p>
+            <p>I would have none diſcouraged be<g ref="char:EOLhyphen"/>cauſe of theſe things, nor think the worſe of the Land , becauſe of the evil Spies; for ſuch as have known the true Travel to it, can give in their Te<g ref="char:EOLhyphen"/>ſtimony, that the Land is good for all
+<pb n="12" facs="tcp:172698:7"/>this, and to be deſired beyond all things in this World.</p>
+            <p>
+               <hi>Friends,</hi> I have ſomething further that lies upon my Mind, that is the con<g ref="char:EOLhyphen"/>ſideration of thoſe things which is be<g ref="char:EOLhyphen"/>fore written, of the great appearance that was once witneſſed of the preſence of the Lord, that was amongſt us. And now my deſire is for my ſelf, as well as for you, that we may not ſit down at eaſe, and pleaſe our ſelves with what we have known, for it is not that we have known in former Days, will ſatisfie our Hungry Souls now, becauſe our Lord exhorted us to Pray for our dai<g ref="char:EOLhyphen"/>ly Bread, and that we may Watch and Pray always, for if we loſe the Senſe of our condition, Darkneſs may ſoon overtake us, and then what can we do.</p>
+            <p>And now Friends, if any ſhould riſe up againgſt the Truth, in opoſition to it again, as formerly they have done, I have this to ſay in the behalf of it, though they make little of the appear<g ref="char:EOLhyphen"/>ance of it, and it came forth by a poor People, yet there was Men which I
+<pb n="13" facs="tcp:172698:7"/>can name, that ſpoke and Propheſied of it in our Day, though they ſaw it but I through a Vail, yet the Lord was pleas'd to rent the Vail, and they did Preach of the New <hi>Jerusalem</hi> coming down from above, in the Day that the Lord would ſearch <hi>Jeruſalem</hi> as with a Candle, and they Preached of the two Seeds, though we did not know what they meant in that Day. And I pray what difference is there between that they Preached and that Friends came forth in: And now to witneſs what I have ſaid, I ſhall write down ſome of theſe Men's names that uſe to hear in thoſe Days, as <hi>Walter Cradock, William Ar<g ref="char:EOLhyphen"/>berey, Joſhua Sprig, Thomas Brooks, John Webſter,</hi> Dr. <hi>Everard, Peter Sterer, William Dell, John Saltmaſh, Morgan Floyd;</hi> and as <hi>John</hi>'s Baptiſm was Glo<g ref="char:EOLhyphen"/>rious in his time, ſo was there Preaching in their time, and they were greatly ſet by, by the Government, which proved ſome hurt to them, which I deſire may be a Warning to all others, not to be much lifted up of what perſwaſion ſoever.</p>
+            <p>
+               <hi>Friends,</hi> upon the conſideration of
+<pb n="14" facs="tcp:172698:8"/>the many deliverances that we have had, ſince that Maſſacree, the deſire of my Heart is, that we may do nothing to provoke the Lord, as <hi>Iſrael</hi> did of old, to cauſe him to bring his Judgments up<g ref="char:EOLhyphen"/>on us, as he did upon them, becauſe I ſee there is many come in among us, ſome for one end and ſome for another, and ſuch ſerve their own end, but the end of the Lord is not anſwered: And theſe are ſome of the little Foxes that hurt the tender Grapes. I pray let none take offence at my thus Writing, for in the Grief of my Heart do I Write theſe things, becauſe I do hear ſo many Complaints by ſome that have ſuffered loſs by ſome that are call'd by the name of <hi>Quakers.</hi>
+            </p>
+            <p>
+               <hi>Friends,</hi> ſeeing ſome Exerciſes are come upon you concerning theſe Men, that rather ſtrikes at the Truth more than you, but I hope the Lord will plead bis own Cauſe, and not let it fall for all this: But this I deſire for my ſelf as well as for you, that we may all conſider right well and ſearch our Hearts every one, and
+<pb n="15" facs="tcp:172698:8"/>ſee whether there be nothing in us that may cauſe the Lord to ſuffer ſuch a thing to come upon us; that ſo what we find amiſs, we may let it fall, let it be what it will, and endeavour to be Examplary to our Enemies, in whatſo<g ref="char:EOLhyphen"/>ever we are concern'd in.</p>
+            <closer>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <l>O Day of Tryal, come thou art,</l>
+            <l>For to diſcover every Heart,</l>
+            <l>And manifeſt things as they be,</l>
+            <l>That all the Innocent may ſee</l>
+            <l>The Man that doth the Life poſſeſs,</l>
+            <l>From him that it only profeſs;</l>
+            <l>Yea, thou wilt ſhew them who they are,</l>
+            <l>That ſoared up above the Sphear,</l>
+            <l>In Words, in Carriage, or in Action,</l>
+            <l>Which gave the Seed no ſatisfaction.</l>
+            <l>And ſuch before that thou art over,</l>
+            <l>Their Nakedneſs thou wilt diſcover,</l>
+            <l>Whereby ſome that deceived have been,</l>
+            <l>Are catcht by them as in a Gin,</l>
+            <l>Will be aſhamed and ſit down,</l>
+            <l>And wait within to feel their own</l>
+            <l>
+               <pb n="16" facs="tcp:172698:9"/>Eternal Gift to God again,</l>
+            <l>And Life to breath upon the Slain.</l>
+            <l>And as theſe things they come to feel,</l>
+            <l>It will afre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> renew their Zeal,</l>
+            <l>To ſtand againſt every thing</l>
+            <l>That would to God diſhonour bring,</l>
+            <l>And patiently the Croſs do bear,</l>
+            <l>Who ever fly, they will not dare,</l>
+            <l>Becauſe they ſee it would offend,</l>
+            <l>And bring them Sorrow in the end.</l>
+            <l>The living God who is ſo juſt,</l>
+            <l>That all that will him follow, muſt</l>
+            <l>Deny themſelves in every thing,</l>
+            <l>And wait on him who is their King.</l>
+            <closer>
+               <signed>
+                  <hi>George Fox</hi> the Younger.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
